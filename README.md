@@ -4,7 +4,7 @@ A automated waste management bin prototype developed as a core Second-Year Compu
 
 ## Project Vision & Purpose
 
-Improper waste disposal poses significant environmental challenges. This research project was designed with the specific goal of reducing improper waste management practices in Myanmar, boosting local recycling rates, and promoting sustainable environmental habits through intelligence automation.
+* **Improper waste disposal poses significant environmental challenges. This research project was designed with the specific goal of reducing improper waste management practices in Myanmar, boosting local recycling rates, and promoting sustainable environmental habits through intelligence automation.
 **This project eliminates human error by removing the decision-making process entirely from the user.** Instead of requiring people to read labels and choose a compartment, the user simply shows the trash item to the integrated webcam. The AI instantly identifies the material and automatically opens the exact correct bin flap via servo motors.
 ---
 
