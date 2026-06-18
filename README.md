@@ -1,11 +1,18 @@
 # Autonomous AI & IoT Waste Sorting System
 
-A automated waste management bin prototype developed as a core Second-Year Computing Research Project for my Higher National Diploma (HND). This project leverages an integration of **Artificial Intelligence (AI)** and **Internet of Things (IoT)** hardware to automatically classify and sort waste into recyclable, organic, and general categories using real-time image recognition, paired with a web monitoring dashboard and email alert system.
+An automated waste management bin prototype developed as a core Second-Year Computing Research Project for my Higher National Diploma (HND). This project leverages an integration of **Artificial Intelligence (AI)** and **Internet of Things (IoT)** hardware to automatically classify and sort waste into recyclable, organic, and general categories using real-time image recognition, paired with a web monitoring dashboard and email alert system.
 
-## Project Vision & Purpose
+---
 
-* **Improper waste disposal poses significant environmental challenges. This research project was designed with the specific goal of reducing improper waste management practices in Myanmar, boosting local recycling rates, and promoting sustainable environmental habits through intelligence automation.
-**This project eliminates human error by removing the decision-making process entirely from the user.** Instead of requiring people to read labels and choose a compartment, the user simply shows the trash item to the integrated webcam. The AI instantly identifies the material and automatically opens the exact correct bin flap via servo motors.
+## 🌍 Project Vision & Core Purpose
+
+  This research project was designed with the specific goal of reducing improper waste management practices in Myanmar, boosting local recycling rates, and promoting sustainable environmental habits through intelligence automation. 
+
+### 🔴 The Problem
+Improper waste disposal poses significant environmental challenges in Myanmar. Even when public trash bins are clearly labeled with sorting stickers, human behavior shows that users rarely take the time to read the categories, resulting in heavily contaminated, unrecyclable waste streams.
+
+### 🟢 The Solution
+This project eliminates human error using AI and IoT.
 ---
 
 ## Author & Development
