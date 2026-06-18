@@ -20,7 +20,7 @@ Improper waste disposal poses significant environmental challenges in Myanmar. E
 ## Author & Development
 * **Developer:** Pann Myat Honey (GitHub: [@pannmyathoney])
 * **Development Year:** 2025
-* **Project Type:** HND Computing (Second-Year Research Project & Portfolio Asset)
+* **Project Type:** HND Computing (Research Project & Portfolio Asset)
 * **Research Focus:** Artificial Intelligence
 
 ---
