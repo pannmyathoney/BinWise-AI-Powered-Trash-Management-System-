@@ -12,7 +12,9 @@ An automated waste management bin prototype developed as a core Second-Year Comp
 Improper waste disposal poses significant environmental challenges in Myanmar. Even when public trash bins are clearly labeled with sorting stickers, human behavior shows that users rarely take the time to read the categories, resulting in heavily contaminated, unrecyclable waste streams.
 
 ### 🟢 The Solution
-This project eliminates human error using AI and IoT.
+
+  This project eliminates human error using AI and IoT.
+  
 ---
 
 ## Author & Development
