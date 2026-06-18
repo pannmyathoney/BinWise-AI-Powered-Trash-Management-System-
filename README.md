@@ -47,7 +47,7 @@ Improper waste disposal poses significant environmental challenges in Myanmar. E
 * **Serial / UART Communication** (Data transfer between Python AI and ESP32)
 ---
 
-##  Hardware Components & Bill of Materials (BOM)
+##  Hardware Components
 The physical infrastructure of this autonomous system comprises the following components:
 * **Microcontroller:** ESP32 Development Board
 * **Vision Module:** USB Hoco Webcam
