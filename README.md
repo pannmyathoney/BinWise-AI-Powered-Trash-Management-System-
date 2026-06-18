@@ -48,7 +48,7 @@ The physical infrastructure of this autonomous system comprises the following co
 
 ---
 
-## 📄 Copyright & Usage Policy
+## Copyright & Usage Policy
 © 2026 Pann Myat Honey. All rights reserved.
 
 ⚠️ **Strict Restrictions:** This project is for portfolio display only. 
